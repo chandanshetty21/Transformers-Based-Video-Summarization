@@ -2,7 +2,7 @@ Here's a simplified `README.md` for your YouTube transcript summarizer project, 
 
 ---
 
-# **YouTube Transcript to Detailed Notes Converter 🎥**  
+# **Transformers-Based Video Summarization 🎥**  
 
 ## **Overview**  
 This project extracts the transcript from YouTube videos and generates a concise summary using Google Gemini Pro. It allows users to easily input a YouTube video URL and receive a summarized version of the video's content.
